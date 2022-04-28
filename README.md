@@ -1,2 +1,2 @@
 # ProjetosCadastroClinico
- Passo a Passso Cadastro Clínico (Python)
+ Passo a Passso Cadastro Clínico (Python com Tkinter)
